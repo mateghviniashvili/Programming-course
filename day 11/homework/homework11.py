@@ -1,0 +1,10 @@
+print(True or False)
+print(False and False)
+print(True and True)
+dato = True
+tezela = False
+print(dato or tezela)
+nika = False
+keshelava = True
+print(nika or keshelava)
+print(False or False)
